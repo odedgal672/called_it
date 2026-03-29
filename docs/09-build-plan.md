@@ -9,11 +9,11 @@ Legend: [ ] not started | [~] in progress | [x] done
 
 ## Phase 0: Project Setup
 
-- [ ] 0.1 — Initialize Maven monorepo with parent `pom.xml`
-- [ ] 0.2 — Create 5 Maven modules: `shared`, `api-gateway`, `app-service`, `ingestion-worker`, `scoring-worker`
-- [ ] 0.3 — Add `docker-compose.yml` for local dev (PostgreSQL + Kafka + Zookeeper)
-- [ ] 0.4 — Configure Flyway (database migration tool) in `app-service`
-- [ ] 0.5 — Write all database migrations (one file per table, in order)
+- [x] 0.1 — Initialize Maven monorepo with parent `pom.xml`
+- [x] 0.2 — Create 5 Maven modules: `shared`, `api-gateway`, `app-service`, `ingestion-worker`, `scoring-worker`
+- [x] 0.3 — Add `docker-compose.yml` for local dev (PostgreSQL + Kafka + Zookeeper)
+- [x] 0.4 — Configure Flyway (database migration tool) in `app-service`
+- [x] 0.5 — Write all database migrations (one file per table, in order)
 
 ---
 

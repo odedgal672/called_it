@@ -4,7 +4,8 @@
       "Bash(git -C /d/developer/called_it log --oneline)",
       "Bash(python3:*)",
       "Skill(update-config)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(mvn:*)"
     ]
   }
 }
